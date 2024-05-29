@@ -1,1 +1,1 @@
-# slsn-search-challenge
+# sl-transient-search-challenge
