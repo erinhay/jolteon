@@ -7,7 +7,7 @@ The Rubin Observatory's Legacy Survey of Space and Time is expected to observe h
 
 ## Leadership
 
-JOLTEON is organized by a leadership team formed of Ana Sainz de Murieta, Dan Ryczanowski, Erin Hayes, and Luke Weisenbach. The leadership team works closely with the LSST Dark Energy Science Collaboration (DESC) Strong Lensing Topical Team Leads, Nikki Arendse, Suhail Dhawan, and Anowar Shajib, and the LSST Strong Lensing Science Collaboration (SLSC) Co-Chairs, Graham Smith and Simon Birrer.
+JOLTEON is organized by a leadership team formed of Ana Sainz de Murieta, Dan Ryczanowski, Erin Hayes, and Luke Weisenbach. The leadership team is supported by the LSST Dark Energy Science Collaboration (DESC) Strong Lensing Topical Team Leads, Nikki Arendse, Suhail Dhawan, and Anowar Shajib, and the LSST Strong Lensing Science Collaboration (SLSC) Co-Chairs, Graham Smith and Simon Birrer.
 
 We welcome all LSST community members to become collaborators on JOLTEON by joining the ``#sl-transient-search-challenge`` channel on the LSST slack!
 
