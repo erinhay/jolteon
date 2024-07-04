@@ -3,7 +3,7 @@
 ![Jolteon](https://github.com/erinhay/jolteon/blob/main/jolteon.png)
 
 ## Aims
-The Rubin Observatory's Legacy Survey of Space and Time is expected to observe tens to hundreds of gravitationally lensed transients. With Jolteon, we aim to provide resources for the development of tools for lensed transient discovery with Rubin-LSST. As a community, we will work collaboratively to "catch 'em all!"
+The Rubin Observatory's Legacy Survey of Space and Time is expected to observe tens to hundreds of gravitationally lensed transients. With the JOint Lensed Transient Events Observation Network (JOLTEON), we aim to provide resources for the development of tools for lensed transient discovery with Rubin-LSST. As a community, we will work collaboratively to "catch 'em all!"
 
 ## Leadership
 
