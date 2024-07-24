@@ -16,4 +16,7 @@ The Extended LSST Astronomical Time-series Classification Challenge (ELAsTiCC) p
 
 We will be releasing jupyter notebooks describing how to access the ELAsTiCC data soon!
 
+## Science Goals
+* 
+
 
