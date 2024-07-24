@@ -17,6 +17,8 @@ The Extended LSST Astronomical Time-series Classification Challenge (ELAsTiCC) p
 We will be releasing jupyter notebooks describing how to access the ELAsTiCC data soon!
 
 ## Science Goals
+Below we describe some key science goals that we encourage participants to consider when developing your search algorithms:
+* What is the false positive rate/purity of the sample of objects identified by your search methods? Why are the contaminants passing through as successful with your search methods?
 * 
 
 
